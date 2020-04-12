@@ -18,7 +18,7 @@ box-sizing: inherit;
      border: 2px solid black;
      background: grey;
      margin: 10px;
-     height: 200px;
+     height: auto;
      float: left;
      overflow: hidden;
 
@@ -53,11 +53,11 @@ box-sizing: inherit;
      border: 2px solid black;
     margin: 0;
     padding: 5px 5px;
-   
+   font-size: 15px;
 
-    width: 130px;
-    height: 30px;
-    font-size: 12px;
+    width: auto;
+    height: auto;
+    font-size: 18px;
     text-align: center;
     
     }
@@ -76,4 +76,6 @@ box-sizing: inherit;
 
 .cajon p{
     margin: 20px;
+    font-size: 15px;
+
 }
